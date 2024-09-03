@@ -1,1 +1,1 @@
-from .llm import lamma
+from .llm import BaseLLM
