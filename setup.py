@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="hdfc",
+    name="hdfc-extended",
     version="0.1.0",
     author="jorawar singh",
     author_email="jorawar.singh.capgemini.com",
-    description="A base package for HDFC Bank services",
+    description="A extended package for HDFC Bank services",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/jorawarsinghcapgemini/hdfc",
+    url="https://github.com/jorawarsinghcapgemini/hdfc-extended.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.12",
